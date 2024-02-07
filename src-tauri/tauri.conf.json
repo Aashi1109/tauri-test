@@ -56,10 +56,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 400,
         "resizable": true,
         "title": "Todo App",
-        "width": 800
+        "width": 250
       }
     ]
   }
